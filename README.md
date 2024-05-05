@@ -1,0 +1,2 @@
+# feixiaoqiu2srgf
+将非小酋上的星穹铁道抽卡记录转换到SRGF格式
